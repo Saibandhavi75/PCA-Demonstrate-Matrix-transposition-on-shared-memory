@@ -332,7 +332,7 @@ root@MidPC:/home/student/Desktop# nvprof ./a.out
                     0.00%     240ns         1     240ns     240ns     240ns  cuDeviceGetUuid
 ```
 ```
-![output](https://github.com/Saibandhavi75/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./blob/main/61.png?raw=true)
+![image](https://github.com/Saibandhavi75/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/94208895/2444541e-a482-4e49-bf9e-8b5e40a22cf3)
 ```
 
 ## Result:
