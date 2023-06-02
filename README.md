@@ -331,9 +331,8 @@ root@MidPC:/home/student/Desktop# nvprof ./a.out
                     0.00%     750ns         2     375ns     170ns     580ns  cuDeviceGet
                     0.00%     240ns         1     240ns     240ns     240ns  cuDeviceGetUuid
 ```
-```
-![image](https://github.com/Saibandhavi75/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/94208895/2444541e-a482-4e49-bf9e-8b5e40a22cf3)
-```
+![output](https://github.com/Saibandhavi75/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/94208895/2444541e-a482-4e49-bf9e-8b5e40a22cf3)
+
 
 ## Result:
 Thus,the program to compare the performance of Rectangular Shared Memory Kernels with a grid (1,1) and a block (16,16) for Matrix Transposition has been successfully executed.
